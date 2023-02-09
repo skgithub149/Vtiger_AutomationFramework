@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Organizations link]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Organization lookup image]]>
+    </line>
+    <line>
+      <![CDATA[Click on Create Organization lookup image]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with Industry and Save]]>
+    </line>
+    <line>
+      <![CDATA[Create Organization with Industry and Type and Save]]>
+    </line>
+    <line>
+      <![CDATA[Validate newly created organization]]>
+    </line>
+    <line>
+      <![CDATA[Validate newly created organization]]>
+    </line>
+    <line>
+      <![CDATA[Validating industry drop down]]>
+    </line>
+    <line>
+      <![CDATA[Validate industry and type drop down]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="146831" started-at="2023-02-08T17:52:40 IST" finished-at="2023-02-08T17:55:07 IST">
+    <groups>
+    </groups>
+    <test name="Test-Runner-2" duration-ms="146831" started-at="2023-02-08T17:52:40 IST" finished-at="2023-02-08T17:55:07 IST">
+      <class name="vTiger.Organizations.Tests.CreateOrganizationWithIndustryTest">
+        <test-method status="PASS" signature="bsConfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryTest@69379752]" name="bsConfig" is-config="true" duration-ms="12" started-at="2023-02-08T17:52:40 IST" finished-at="2023-02-08T17:52:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method status="PASS" signature="bcConfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryTest@69379752]" name="bcConfig" is-config="true" duration-ms="33390" started-at="2023-02-08T17:52:41 IST" finished-at="2023-02-08T17:53:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method status="PASS" signature="bmconfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryTest@69379752]" name="bmconfig" is-config="true" duration-ms="14146" started-at="2023-02-08T17:53:15 IST" finished-at="2023-02-08T17:53:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmconfig -->
+        <test-method status="PASS" signature="createOrganizationWithIndustryTest()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryTest@69379752]" name="createOrganizationWithIndustryTest" duration-ms="90314" started-at="2023-02-08T17:53:29 IST" finished-at="2023-02-08T17:54:59 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Organization lookup image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with Industry and Save]]>
+            </line>
+            <line>
+              <![CDATA[Validate newly created organization]]>
+            </line>
+            <line>
+              <![CDATA[Validating industry drop down]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithIndustryTest -->
+        <test-method status="PASS" signature="amConfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryTest@69379752]" name="amConfig" is-config="true" duration-ms="4920" started-at="2023-02-08T17:54:59 IST" finished-at="2023-02-08T17:55:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method status="PASS" signature="acConfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryTest@69379752]" name="acConfig" is-config="true" duration-ms="3072" started-at="2023-02-08T17:55:04 IST" finished-at="2023-02-08T17:55:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method status="PASS" signature="asConfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryTest@69379752]" name="asConfig" is-config="true" duration-ms="1" started-at="2023-02-08T17:55:11 IST" finished-at="2023-02-08T17:55:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- vTiger.Organizations.Tests.CreateOrganizationWithIndustryTest -->
+    </test> <!-- Test-Runner-2 -->
+    <test name="Test-Runner-1" duration-ms="146703" started-at="2023-02-08T17:52:40 IST" finished-at="2023-02-08T17:55:07 IST">
+      <class name="vTiger.Organizations.Tests.CreateOrganizationWithIndustryAndTypeTest">
+        <test-method status="PASS" signature="bcConfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryAndTypeTest@4fcd19b3]" name="bcConfig" is-config="true" duration-ms="33732" started-at="2023-02-08T17:52:41 IST" finished-at="2023-02-08T17:53:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method status="PASS" signature="bmconfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryAndTypeTest@4fcd19b3]" name="bmconfig" is-config="true" duration-ms="13176" started-at="2023-02-08T17:53:15 IST" finished-at="2023-02-08T17:53:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmconfig -->
+        <test-method status="PASS" signature="createOrganizationWithIndustryAndTypeTest()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryAndTypeTest@4fcd19b3]" name="createOrganizationWithIndustryAndTypeTest" duration-ms="91449" started-at="2023-02-08T17:53:28 IST" finished-at="2023-02-08T17:54:59 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on Organizations link]]>
+            </line>
+            <line>
+              <![CDATA[Click on Create Organization lookup image]]>
+            </line>
+            <line>
+              <![CDATA[Create Organization with Industry and Type and Save]]>
+            </line>
+            <line>
+              <![CDATA[Validate newly created organization]]>
+            </line>
+            <line>
+              <![CDATA[Validate industry and type drop down]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithIndustryAndTypeTest -->
+        <test-method status="PASS" signature="amConfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryAndTypeTest@4fcd19b3]" name="amConfig" is-config="true" duration-ms="4801" started-at="2023-02-08T17:54:59 IST" finished-at="2023-02-08T17:55:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method status="PASS" signature="acConfig()[pri:0, instance:vTiger.Organizations.Tests.CreateOrganizationWithIndustryAndTypeTest@4fcd19b3]" name="acConfig" is-config="true" duration-ms="2941" started-at="2023-02-08T17:55:04 IST" finished-at="2023-02-08T17:55:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+      </class> <!-- vTiger.Organizations.Tests.CreateOrganizationWithIndustryAndTypeTest -->
+    </test> <!-- Test-Runner-1 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <test thread-count="2" name="Test-Runner-1(failed)" parallel="tests">
+    <classes>
+      <class name="vTiger.Contacts.Tests.CreateContactWithOrganizationTest">
+        <methods>
+          <include name="acConfig"/>
+          <include name="amConfig"/>
+          <include name="bcConfig"/>
+          <include name="bsConfig"/>
+          <include name="asConfig"/>
+          <include name="createContactWithOrganizationPOMTest"/>
+          <include name="bmconfig"/>
+        </methods>
+      </class> <!-- vTiger.Contacts.Tests.CreateContactWithOrganizationTest -->
+    </classes>
+  </test> <!-- Test-Runner-1(failed) -->
+</suite> <!-- Failed suite [Suite] -->
